@@ -1,0 +1,27 @@
+Todo:
+  ✔ Make  the plyaer move @done (21-08-22 20:34)
+  ✔ make camera move @done (21-08-22 20:34)
+  ✔ set the scene: @done (21-08-28 22:43)
+    ✔ have 3 textures planes @done (21-08-22 20:34)
+    ✔ have 3 holes we can drop into, or stand on, something like that. @done (21-08-22 20:34)
+    ✘ have a 3d text above it all, to ask the question. @cancelled (21-08-24 19:21)
+  ✔ have a canvas for the draw game. @done (21-08-22 22:21)
+  ✔ have a manager for the game, that will decide what question there is. @done (21-08-28 22:43)
+    ✘ make a scriptable object for the game question, and make 3 types of questions atleast. @cancelled (21-08-28 22:43)
+
+  ✔ question maker @done (21-08-24 21:16)
+  ✘ translate code question into tokenized strings that can be displayedf in red and blue colors. @cancelled (21-08-28 22:43)
+  this will be its own unique script, maybe a singleton that handles all that.
+  ✔ remove the scriptable object for the question. @done (21-08-28 22:43)
+  ✔ make the game interactions, did i click the right one and all that. @done (21-08-28 22:43)
+  ☐ connect the draw asset:
+    ☐ click button pop up
+    ☐ load correct sprite to draw on.
+
+V2:
+  Fixes:
+    ☐ Make a better text canvas appear
+    ☐ Set a better scene.
+
+
+  

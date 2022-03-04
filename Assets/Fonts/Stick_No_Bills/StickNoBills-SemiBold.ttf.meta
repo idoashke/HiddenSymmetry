@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 3da20889d893f7c45b8ad63ee52fcb96
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Stick No Bills
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1b3c88ffbf9cd904cbcd2fbdb996185d, type: 3}
+  - {fileID: 12800000, guid: 4af36e5402a5b914db1324f3831de2b7, type: 3}
+  - {fileID: 12800000, guid: 14c320c40749ea044b9596d88e5d0729, type: 3}
+  - {fileID: 12800000, guid: 8c6031aa835e4d84199377bba589ce31, type: 3}
+  - {fileID: 12800000, guid: 15819854b34394e4cb660f8c985ee6b6, type: 3}
+  - {fileID: 12800000, guid: a5779e69ab7213a468b3b32bfbdc92e9, type: 3}
+  - {fileID: 12800000, guid: f6d3a0f42f26fe64d9dedcf1c9a92139, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
